@@ -1,0 +1,16 @@
+#!/bin/sh
+
+set -e
+
+#DEBHELPER#
+
+case "$1" in
+    configure)
+        if [ -f "/usr/share/gconf/defaults/16_ubuntu-wallpappers" ]; then
+            rm -f /usr/share/gconf/defaults/16_ubuntu-wallpappers
+        fi
+        if [ -f "/usr/share/gnome-background-properties/ubuntu-wallpapers.xml" ]; then
+            rm -f /usr/share/gnome-background-properties/ubuntu-wallpapers.xml 
+        fi
+        ;;
+esac

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Tuquito</name>
+    <filename>/usr/share/backgrounds/TuquitoLuces.png</filename>
+    <options>zoom</options>
+    <pcolor>#99B46B</pcolor>
+    <scolor>#99B46B</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Luces 1</name>
+    <filename>/usr/share/backgrounds/TuquitoLuces1.png</filename>
+    <options>zoom</options>
+    <pcolor>#99B46B</pcolor>
+    <scolor>#99B46B</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Luces 2</name>
+    <filename>/usr/share/backgrounds/TuquitoLuces2.png</filename>
+    <options>zoom</options>
+    <pcolor>#99B46B</pcolor>
+    <scolor>#99B46B</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Luces 3</name>
+    <filename>/usr/share/backgrounds/TuquitoLuces3.png</filename>
+    <options>zoom</options>
+    <pcolor>#99B46B</pcolor>
+    <scolor>#99B46B</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Luces 4</name>
+    <filename>/usr/share/backgrounds/TuquitoLuces4.png</filename>
+    <options>zoom</options>
+    <pcolor>#99B46B</pcolor>
+    <scolor>#99B46B</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Azul</name>
+    <filename>/usr/share/backgrounds/TuquitoAzul.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Spacio</name>
+    <filename>/usr/share/backgrounds/Spacio.png</filename>
+    <options>zoom</options>
+    <pcolor>#oooooo</pcolor>
+    <scolor>#oooooo</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Plenos Naranja</name>
+    <filename>/usr/share/backgrounds/PlenosNaranja.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Plenos Negro</name>
+    <filename>/usr/share/backgrounds/PlenosNegro.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Plenos Verde</name>
+    <filename>/usr/share/backgrounds/PlenosVerde.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito 1</name>
+    <filename>/usr/share/backgrounds/tuquito1.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito 2</name>
+    <filename>/usr/share/backgrounds/tuquito2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Puntos</name>
+    <filename>/usr/share/backgrounds/puntos.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Puntos 2</name>
+    <filename>/usr/share/backgrounds/puntos2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tuquito Puntos 3</name>
+    <filename>/usr/share/backgrounds/puntos3.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Canvas</name>
+    <filename>/usr/share/backgrounds/canvas.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Abstracto</name>
+    <filename>/usr/share/backgrounds/abstracto.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Fondo Usuarios</name>
+    <filename>/usr/share/backgrounds/wallpaper-user.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Fondo Usuarios 2</name>
+    <filename>/usr/share/backgrounds/wallpaper-user1.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Fondo Usuario 3</name>
+    <filename>/usr/share/backgrounds/wallpaper-user2.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
