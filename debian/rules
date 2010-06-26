@@ -41,8 +41,7 @@ install: build
 
 	# Add here commands to install the package into debian/tuquito-wallpapers.
 	#$(MAKE) DESTDIR=$(CURDIR)/debian/tuquito-wallpapers install
-	cp *.png $(CURDIR)/debian/tuquito-wallpapers/usr/share/backgrounds/
-	cp *.jpg $(CURDIR)/debian/tuquito-wallpapers/usr/share/backgrounds/
+	cp -af tuquito $(CURDIR)/debian/tuquito-wallpapers/usr/share/backgrounds/
 	cp 16_tuquito_wallpapers $(CURDIR)/debian/tuquito-wallpapers/usr/share/gconf/defaults/
 	cp -af tuquito-wallpapers.xml $(CURDIR)/debian/tuquito-wallpapers/usr/share/gnome-background-properties/
 

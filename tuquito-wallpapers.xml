@@ -3,63 +3,47 @@
 <wallpapers>
   <wallpaper>
     <name>Tuquito</name>
-    <filename>/usr/share/backgrounds/TuquitoLuces.png</filename>
+    <filename>/usr/share/backgrounds/tuquito/Tuquito4.jpg</filename>
     <options>zoom</options>
-    <pcolor>#99B46B</pcolor>
-    <scolor>#99B46B</scolor>
+    <pcolor>#2D4B69</pcolor>
+    <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito Luces 1</name>
-    <filename>/usr/share/backgrounds/TuquitoLuces1.png</filename>
+    <name>Aqua</name>
+    <filename>/usr/share/backgrounds/tuquito/Aqua.jpg</filename>
     <options>zoom</options>
-    <pcolor>#99B46B</pcolor>
-    <scolor>#99B46B</scolor>
+    <pcolor>#2D4B69</pcolor>
+    <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito Luces 2</name>
-    <filename>/usr/share/backgrounds/TuquitoLuces2.png</filename>
+    <name>Bahía Azul</name>
+    <filename>/usr/share/backgrounds/tuquito/Bahia_azul_VP_arg.jpg</filename>
     <options>zoom</options>
-    <pcolor>#99B46B</pcolor>
-    <scolor>#99B46B</scolor>
+    <pcolor>#2D4B69</pcolor>
+    <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito Luces 3</name>
-    <filename>/usr/share/backgrounds/TuquitoLuces3.png</filename>
+    <name>El Tigre</name>
+    <filename>/usr/share/backgrounds/tuquito/El_tigre_arg.jpg</filename>
     <options>zoom</options>
-    <pcolor>#99B46B</pcolor>
-    <scolor>#99B46B</scolor>
+    <pcolor>#2D4B69</pcolor>
+    <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito Luces 4</name>
-    <filename>/usr/share/backgrounds/TuquitoLuces4.png</filename>
+    <name>Pampa Húmeda</name>
+    <filename>/usr/share/backgrounds/tuquito/Pampa_humeda_arg.jpg</filename>
     <options>zoom</options>
-    <pcolor>#99B46B</pcolor>
-    <scolor>#99B46B</scolor>
+    <pcolor>#2D4B69</pcolor>
+    <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito Azul</name>
-    <filename>/usr/share/backgrounds/TuquitoAzul.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Tuquito Spacio</name>
-    <filename>/usr/share/backgrounds/Spacio.png</filename>
-    <options>zoom</options>
-    <pcolor>#oooooo</pcolor>
-    <scolor>#oooooo</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Plenos Naranja</name>
-    <filename>/usr/share/backgrounds/PlenosNaranja.png</filename>
+    <name>Pilo Lil</name>
+    <filename>/usr/share/backgrounds/Pilo_lil_arg.jpg</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
@@ -67,95 +51,119 @@
   </wallpaper>
   <wallpaper>
     <name>Plenos Negro</name>
-    <filename>/usr/share/backgrounds/PlenosNegro.png</filename>
+    <filename>/usr/share/backgrounds/tuquito/PlenosNegro.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Puntos</name>
+    <filename>/usr/share/backgrounds/tuquito/puntos3.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Renacer</name>
+    <filename>/usr/share/backgrounds/tuquito/Renacer.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Snooze</name>
+    <filename>/usr/share/backgrounds/tuquito/Snooze.jpg</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Plenos Verde</name>
-    <filename>/usr/share/backgrounds/PlenosVerde.png</filename>
+    <name>Spacio</name>
+    <filename>/usr/share/backgrounds/tuquito/Spacio.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito 1</name>
-    <filename>/usr/share/backgrounds/tuquito1.jpg</filename>
+    <name>Torcuato</name>
+    <filename>/usr/share/backgrounds/tuquito/Torcuato.jpg</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito 2</name>
-    <filename>/usr/share/backgrounds/tuquito2.jpg</filename>
+    <name>Tuquito Azul</name>
+    <filename>/usr/share/backgrounds/tuquito/TuquitoAzul.jpg</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito Puntos</name>
-    <filename>/usr/share/backgrounds/puntos.jpg</filename>
+    <name>Tuquito Luces</name>
+    <filename>/usr/share/backgrounds/tuquito/TuquitoLuces.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito Puntos 2</name>
-    <filename>/usr/share/backgrounds/puntos2.jpg</filename>
+    <name>Tuquito Luces 1</name>
+    <filename>/usr/share/backgrounds/tuquito/TuquitoLuces1.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Tuquito Puntos 3</name>
-    <filename>/usr/share/backgrounds/puntos3.jpg</filename>
+    <name>Tuquito Luces 3</name>
+    <filename>/usr/share/backgrounds/tuquito/TuquitoLuces3.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Canvas</name>
-    <filename>/usr/share/backgrounds/canvas.jpg</filename>
+    <name>Tuquito Luces 4</name>
+    <filename>/usr/share/backgrounds/tuquito/TuquitoLuces4.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Abstracto</name>
-    <filename>/usr/share/backgrounds/abstracto.jpg</filename>
+    <name>Volcán Lanin</name>
+    <filename>/usr/share/backgrounds/tuquito/Vn_lanin_arg.jpg</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Fondo Usuarios</name>
-    <filename>/usr/share/backgrounds/wallpaper-user.png</filename>
+    <name>Fondo Usuarios 1</name>
+    <filename>/usr/share/backgrounds/tuquito/wallpaper-user.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Fondo Usuarios 2</name>
-    <filename>/usr/share/backgrounds/wallpaper-user1.png</filename>
+    <name>Fondo Usuario 2</name>
+    <filename>/usr/share/backgrounds/tuquito/wallpaper-user2.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Fondo Usuario 3</name>
-    <filename>/usr/share/backgrounds/wallpaper-user2.png</filename>
+    <name>Wave</name>
+    <filename>/usr/share/backgrounds/tuquito/Wave.jpg</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#ffffff</scolor>

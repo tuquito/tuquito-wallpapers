@@ -4,11 +4,9 @@ Priority: extra
 Maintainer: Mario Colque <mario@tuquito.org.ar>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.8.1
-Homepage: http://paquetes.tuquito.org.ar
 
 Package: tuquito-wallpapers
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Wallpapers de Tuquito
- Paquete que contiene los wallpapers oficiales de Tuquito 3.x
- * Tuquito Team! - 2009
+ Paquete que contiene los wallpapers oficiales de Tuquito 4.x
+ * Tuquito Team! - 2010
