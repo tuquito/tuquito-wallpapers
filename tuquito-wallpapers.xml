@@ -169,4 +169,20 @@
     <scolor>#ffffff</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper>
+    <name>Atra Dot</name>
+    <filename>/usr/share/backgrounds/tuquito/Atra_Dot.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Atra Dot Blue</name>
+    <filename>/usr/share/backgrounds/tuquito/Atra_Dot_Blue.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>
