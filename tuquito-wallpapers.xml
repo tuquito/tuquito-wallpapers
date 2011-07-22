@@ -3,186 +3,66 @@
 <wallpapers>
   <wallpaper>
     <name>Tuquito</name>
-    <filename>/usr/share/backgrounds/tuquito/Tuquito4.jpg</filename>
+    <filename>/usr/share/backgrounds/tuquito/Tuquito5.png</filename>
     <options>zoom</options>
     <pcolor>#2D4B69</pcolor>
     <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Aqua</name>
-    <filename>/usr/share/backgrounds/tuquito/Aqua.jpg</filename>
+    <name>Abstraction Wave</name>
+    <filename>/usr/share/backgrounds/tuquito/AbstractionWave.png</filename>
     <options>zoom</options>
     <pcolor>#2D4B69</pcolor>
     <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Bahía Azul</name>
-    <filename>/usr/share/backgrounds/tuquito/Bahia_azul_VP_arg.jpg</filename>
+    <name>Cañas</name>
+    <filename>/usr/share/backgrounds/tuquito/Cañas.jpg</filename>
     <options>zoom</options>
     <pcolor>#2D4B69</pcolor>
     <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>El Tigre</name>
-    <filename>/usr/share/backgrounds/tuquito/El_tigre_arg.jpg</filename>
+    <name>Hojas</name>
+    <filename>/usr/share/backgrounds/tuquito/Hojas.jpg</filename>
     <options>zoom</options>
     <pcolor>#2D4B69</pcolor>
     <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Pampa Húmeda</name>
-    <filename>/usr/share/backgrounds/tuquito/Pampa_humeda_arg.jpg</filename>
+    <name>Striped Blue</name>
+    <filename>/usr/share/backgrounds/tuquito/StripedBlue.jpg</filename>
     <options>zoom</options>
     <pcolor>#2D4B69</pcolor>
     <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Pilo Lil</name>
-    <filename>/usr/share/backgrounds/Pilo_lil_arg.jpg</filename>
+    <name>Striped Grey</name>
+    <filename>/usr/share/backgrounds/tuquito/StripedGrey.jpg</filename>
     <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
+    <pcolor>#2D4B69</pcolor>
+    <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Plenos Negro</name>
-    <filename>/usr/share/backgrounds/tuquito/PlenosNegro.png</filename>
+    <name>Striped Violet</name>
+    <filename>/usr/share/backgrounds/tuquito/StripedViolet.jpg</filename>
     <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
+    <pcolor>#2D4B69</pcolor>
+    <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Puntos</name>
-    <filename>/usr/share/backgrounds/tuquito/puntos3.jpg</filename>
+    <name>When it falls</name>
+    <filename>/usr/share/backgrounds/tuquito/WhenItFalls.jpg</filename>
     <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Renacer</name>
-    <filename>/usr/share/backgrounds/tuquito/Renacer.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Snooze</name>
-    <filename>/usr/share/backgrounds/tuquito/Snooze.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Spacio</name>
-    <filename>/usr/share/backgrounds/tuquito/Spacio.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Torcuato</name>
-    <filename>/usr/share/backgrounds/tuquito/Torcuato.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Tuquito Azul</name>
-    <filename>/usr/share/backgrounds/tuquito/TuquitoAzul.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Tuquito Luces</name>
-    <filename>/usr/share/backgrounds/tuquito/TuquitoLuces.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Tuquito Luces 1</name>
-    <filename>/usr/share/backgrounds/tuquito/TuquitoLuces1.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Tuquito Luces 3</name>
-    <filename>/usr/share/backgrounds/tuquito/TuquitoLuces3.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Tuquito Luces 4</name>
-    <filename>/usr/share/backgrounds/tuquito/TuquitoLuces4.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Volcán Lanin</name>
-    <filename>/usr/share/backgrounds/tuquito/Vn_lanin_arg.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Fondo Usuarios 1</name>
-    <filename>/usr/share/backgrounds/tuquito/wallpaper-user.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Fondo Usuario 2</name>
-    <filename>/usr/share/backgrounds/tuquito/wallpaper-user2.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Wave</name>
-    <filename>/usr/share/backgrounds/tuquito/Wave.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Atra Dot</name>
-    <filename>/usr/share/backgrounds/tuquito/Atra_Dot.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Atra Dot Blue</name>
-    <filename>/usr/share/backgrounds/tuquito/Atra_Dot_Blue.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#ffffff</scolor>
+    <pcolor>#2D4B69</pcolor>
+    <scolor>#2D4B69</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 </wallpapers>
